@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "header": "Summer Crunch",
+    "subheader": "Get a taste of the summer",
+    "menu_button_text": "Check out the menu!",
+    "picture_src": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/71fe21f80a1343fdbb7b712119301003e5f626bd-990x612.gif",
+    "menu_navigation": "https://burgerking.ro/en/menu/section-a5d2bff7-dda1-4be0-89d7-5e4fd3309968"
+  },
+  "expected_urls": [
+    "/whopper-naruto",
+    "/breakfast",
+    "/summer-crunch-en",
+    "/king-smart-en",
+    "/wrappy-en",
+    "/king's-collection-en",
+    "/offers",
+    "/application",
+    "/order",
+    "/about-us"
+  ],
+  "banners": [
+    {
+      "title": "Whopper Naruto",
+      "subtitle": "Starting from August 16th, in every Burger King restaurant in Romania",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/0d3a850fd69853dc5aa2c73f462da97528dcb8d2-1120x560.jpg",
+      "url": "/whopper-naruto"
+    },
+    {
+      "title": "Royal Breakfast 👑",
+      "subtitle": "Start Your Day Like a King!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/27b82dbb4a229fadd8c71f8379291fed2cca13a1-1120x560.jpg",
+      "url": "/breakfast"
+    },
+    {
+      "title": "Summer Crunch",
+      "subtitle": "Get a taste of the summer",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/1f992a39311c01a528d2077aaecd17e085c8c22b-1120x560.jpg",
+      "url": "/summer-crunch-en"
+    },
+    {
+      "title": "King Smart",
+      "subtitle": "Royal deal at an exceptional price 👑",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/daeae7138185ff4859dd1480917e0d13aaffd920-1120x560.jpg",
+      "url": "/king-smart-en"
+    },
+    {
+      "title": "Wrappy",
+      "subtitle": "Your new favorite snack!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/e1588ff0e4f2ef9586708d09b7793cd1be7f89c7-1120x560.jpg",
+      "url": "/wrappy-en"
+    },
+    {
+      "title": "King's Collection",
+      "subtitle": "A unique selection of original flavours. Try our special line of burgers.",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/087ed820c6d3fb980b3b07876319314ad13d0c64-1120x560.png",
+      "url": "/king's-collection-en"
+    },
+    {
+      "title": "Coupons",
+      "subtitle": "Check out the latest coupons featuring your favourite products!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/2397f25b2592eb2f6e196b5d832d18a6bfa82337-1120x560.png",
+      "url": "/offers"
+    },
+    {
+      "title": "Application",
+      "subtitle": "Download our app and get the fastest access to special offers and coupons!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/7e2545a2baff7fbcac2e4bb177da151b01f6f17e-1120x561.png",
+      "url": "/application"
+    },
+    {
+      "title": "Delivery",
+      "subtitle": "Take advantage of fast delivery straight to your door!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/23f103cbdf2de5953eb278cf83f082ac14ad5d57-1120x560.png",
+      "url": "/order"
+    },
+    {
+      "title": "About us",
+      "subtitle": "At Burger King®, we have invariably been grilling beef over the truest fire for 60 years and always serve it accompanied by fresh vegetables. Check out our history!",
+      "image_source": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ro/f8bb16387d63b8aa23cb7f830e7c462225fb193c-1120x560.png",
+      "url": "/about-us"
+    }
+  ]
+}
