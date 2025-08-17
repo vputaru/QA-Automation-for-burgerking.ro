@@ -7,7 +7,7 @@ Currently focused on **UI testing**, with **API test coverage** planned for futu
 ---
 
 ## Tech Stack
-- **Python 3.x**
+- **Python 3.12.8**
 - **Pytest** – testing framework
 - **Selenium WebDriver** – browser automation
 - **ChromeDriver** – driver for Google Chrome
